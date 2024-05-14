@@ -1,0 +1,38 @@
+h1,p,a{
+    color:papayawhip;
+    text-align: center;
+}
+
+.big{
+    color: palegoldenrod;
+}
+.big{
+ background-color: red;
+}
+body{
+    background-image: url(./1352354.jpg
+    );
+    background-repeat: no-repeat;
+    background-size: 1900px;
+ 
+}
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #0e0c0c;
+    background-color: #9bdaf7;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #be0a97
+}
+.button:hover {
+    background-color: #2c878a;
+}
+.button:active {
+    background-color: #ec0505;
+    box-shadow: 0 5px #030000;
+    transform: translateY(4px);
+}
